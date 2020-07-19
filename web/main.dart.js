@@ -24179,7 +24179,7 @@ A.Eu.prototype={
 $0:function(){$.ds().ag("open",["mailto:odtumbt@hotmail.com"])},
 $S:0}
 A.Ev.prototype={
-$0:function(){$.ds().ag("open",["tel://+903122106013"])},
+$0:function(){$.ds().ag("open",["tel:+903122106013"])},
 $S:0}
 A.Ew.prototype={
 $0:function(){$.ds().ag("open",["https://goo.gl/maps/EA8hoebSnaMnMk6x6"])},
