@@ -24174,7 +24174,7 @@ H:function(a){var t=null,s=H.a([new T.Y(t,20,t,t),new O.w7(t),new T.Y(t,60,t,t),
 return new M.pl(new B.vF(new G.Mh(!0,!0,!0,s,r),t,C.r,!1,t,!0,C.qd,!1,t,q,C.aL,C.wm,t),C.j,t)}}
 A.tx.prototype={
 H:function(a){var t=null,s="assets/images/phone.png",r="assets/images/location.png",q=u.t
-return new U.hk(T.d6(H.a([L.cf("Bize Ula\u015f\u0131n",A.bA(t,t,t,t,t,t,t,t,t,t,t,24,t,C.aN,t,t,!0,t,t,t,t,t,t),t),R.dA(!1,!0,T.cy(H.a([new T.Y(75,60,U.kx("assets/images/mail.png"),t),new T.Y(30,90,t,t),new T.Y(310,t,L.cf(": odtumbt@hotmail.com",A.bA(t,t,t,t,t,t,t,t,t,t,t,14,t,t,t,t,!0,t,t,t,t,t,t),t),t)],q),C.ak,C.L),t,!0,t,t,t,t,t,t,t,t,t,new A.Eu(),t),R.dA(!1,!0,T.cy(H.a([new T.Y(75,60,U.kx(s),t),new T.Y(30,90,t,t),new T.Y(310,t,L.cf(": 0 (312) 210 60 13 (Sabit Hat)",A.bA(t,t,t,t,t,t,t,t,t,t,t,14,t,t,t,t,!0,t,t,t,t,t,t),t),t)],q),C.ak,C.L),t,!0,t,t,t,t,t,t,t,t,t,new A.Ev(),t),R.dA(!1,!0,T.cy(H.a([new T.Y(75,60,U.kx(s),t),new T.Y(30,90,t,t),new T.Y(310,t,L.cf(": +90 (507) 211 25 71 (Ba\u015fkan)",A.bA(t,t,t,t,t,t,t,t,t,t,t,14,t,t,t,t,!0,t,t,t,t,t,t),t),t)],q),C.ak,C.L),t,!0,t,t,t,t,t,t,t,t,t,new A.Ew(),t),R.dA(!1,!0,T.cy(H.a([new T.Y(75,60,U.kx(r),t),new T.Y(30,90,t,t),new T.Y(310,t,L.cf(": ODT\xdc Metalurji ve Malzeme M\xfchendisli\u011fi B blok No: 2",A.bA(t,t,t,t,t,t,t,t,t,t,t,14,t,t,t,t,!0,t,t,t,t,t,t),t),t)],q),C.ak,C.L),t,!0,t,t,t,t,t,t,t,t,t,new A.Ex(),t),R.dA(!1,!0,T.cy(H.a([new T.Y(75,60,U.kx(r),t),new T.Y(30,90,t,t),new T.Y(310,t,L.cf(": ODT\xdc Metalurji ve Malzeme M\xfchendisli\u011fi E blok No: 121",A.bA(t,t,t,t,t,t,t,t,t,t,t,14,t,t,t,t,!0,t,t,t,t,t,t),t),t)],q),C.ak,C.L),t,!0,t,t,t,t,t,t,t,t,t,new A.Ey(),t)],q),C.W,C.ak),t)}}
+return new U.hk(T.d6(H.a([L.cf("Bize Ula\u015f\u0131n",A.bA(t,t,t,t,t,t,t,t,t,t,t,24,t,C.aN,t,t,!0,t,t,t,t,t,t),t),R.dA(!1,!0,T.cy(H.a([new T.Y(75,60,U.kx("assets/images/mail.png"),t),new T.Y(30,90,t,t),new T.Y(200,t,L.cf(": odtumbt@hotmail.com",A.bA(t,t,t,t,t,t,t,t,t,t,t,14,t,t,t,t,!0,t,t,t,t,t,t),t),t)],q),C.ak,C.L),t,!0,t,t,t,t,t,t,t,t,t,new A.Eu(),t),R.dA(!1,!0,T.cy(H.a([new T.Y(75,60,U.kx(s),t),new T.Y(30,90,t,t),new T.Y(200,t,L.cf(": +90 (312) 210 60 13 (Sabit Hat)",A.bA(t,t,t,t,t,t,t,t,t,t,t,14,t,t,t,t,!0,t,t,t,t,t,t),t),t)],q),C.ak,C.L),t,!0,t,t,t,t,t,t,t,t,t,new A.Ev(),t),R.dA(!1,!0,T.cy(H.a([new T.Y(75,60,U.kx(s),t),new T.Y(30,90,t,t),new T.Y(200,t,L.cf(": +90 (507) 211 25 71 (Ba\u015fkan)",A.bA(t,t,t,t,t,t,t,t,t,t,t,14,t,t,t,t,!0,t,t,t,t,t,t),t),t)],q),C.ak,C.L),t,!0,t,t,t,t,t,t,t,t,t,new A.Ew(),t),R.dA(!1,!0,T.cy(H.a([new T.Y(75,60,U.kx(r),t),new T.Y(30,90,t,t),new T.Y(200,t,L.cf(": ODT\xdc Metalurji ve Malzeme M\xfchendisli\u011fi B blok No: 2",A.bA(t,t,t,t,t,t,t,t,t,t,t,14,t,t,t,t,!0,t,t,t,t,t,t),t),t)],q),C.ak,C.L),t,!0,t,t,t,t,t,t,t,t,t,new A.Ex(),t),R.dA(!1,!0,T.cy(H.a([new T.Y(75,60,U.kx(r),t),new T.Y(30,90,t,t),new T.Y(200,t,L.cf(": ODT\xdc Metalurji ve Malzeme M\xfchendisli\u011fi E blok No: 121",A.bA(t,t,t,t,t,t,t,t,t,t,t,14,t,t,t,t,!0,t,t,t,t,t,t),t),t)],q),C.ak,C.L),t,!0,t,t,t,t,t,t,t,t,t,new A.Ey(),t)],q),C.W,C.ak),t)}}
 A.Eu.prototype={
 $0:function(){$.d4().ae("open",["mailto:odtumbt@hotmail.com"])},
 $S:0}
@@ -24201,7 +24201,7 @@ H:function(a){var t=null
 return M.cO(C.jX,new T.dS(new S.az(0,800,0,1/0),this.c,t),t,t,t,t,t,C.tE,t)}}
 E.tO.prototype={
 H:function(a){var t=null
-return M.cO(C.jX,new T.dS(new S.az(0,400,0,1/0),this.c,t),t,t,t,t,t,C.tC,t)}}
+return M.cO(C.jX,new T.dS(new S.az(0,600,0,1/0),this.c,t),t,t,t,t,t,C.tC,t)}}
 R.tP.prototype={
 H:function(a){var t=null
 return M.cO(C.jX,new T.dS(new S.az(0,800,0,1/0),this.c,t),t,t,t,t,t,C.tA,t)}}
