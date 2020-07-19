@@ -14,7 +14,7 @@ const RESOURCES = {
 "assets/assets/images/twitter.png": "fdf976b38ea62efdd540126784ef8e3d",
 "assets/assets/images/reddit.png": "4dc5ff3f1a948ccec377492d54c4d2c3",
 "assets/assets/images/instagram.png": "b01cc1a597457522576eb74d2caa981d",
-"assets/assets/images/kolaj.png": "b932c3b8542cce44787aba0f3c93d5b5",
+"assets/assets/images/kolaj.png": "8159158030d358d77dbe5080d02d372f",
 "assets/assets/images/github.png": "ef7a02b69836dc8b6a732a54c4200dcb",
 "assets/assets/images/facebook.png": "7767d332bbdada07d197dc5a770f785a",
 "assets/assets/images/logo.png": "184ce9886f728542890b8c6e5a8c4232",
@@ -36,7 +36,7 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"main.dart.js": "e0f599acf80aee9368314bb87935a7d3"
+"main.dart.js": "aff819109a319f1c8322e03bcd2dc307"
 };
 
 // The application shell files that are downloaded before a service worker can
