@@ -24291,7 +24291,7 @@ F:function(a){var t=null
 return new T.j3(C.tH,T.d_(H.b([L.W_(this.d),new T.ad(30,t,t,t),new U.cx(this.c,t)],u.t),C.fO,C.Q),t)}}
 V.wj.prototype={
 F:function(a){var t=null,s=P.Vw(190,190,190,1)
-return M.bY(C.Z,U.Ib("assets/images/logo/logo-256.png"),s,t,t,256,t,t,t)}}
+return M.bY(C.Z,U.Ib("assets/images/logo/logo-512.png"),s,t,t,256,t,t,t)}}
 N.yC.prototype={
 F:function(a){var t=null,s="/odtumbt",r=u.t
 return new U.ff(T.hp(H.b([L.d1("Bizi Takip Edin",A.c4(t,t,t,t,t,t,t,t,t,t,t,24,t,C.aO,t,t,!0,t,t,t,t,t,t),t),new T.ad(t,30,t,t),T.d_(H.b([new N.eS("assets/images/sosyalMedya/instagram.png","@odtumbt","https://www.instagram.com/odtumbt/",t),new N.eS("assets/images/sosyalMedya/linkedin.png","/in/odtumbt","https://www.linkedin.com/in/odtumbt/",t),new N.eS("assets/images/sosyalMedya/facebook.png",s,"https://www.facebook.com/odtumbt/",t)],r),C.b4,C.Q),new T.ad(t,30,t,t),T.d_(H.b([new N.eS("assets/images/sosyalMedya/youtube.png","/c/odtumbt","https://www.youtube.com/channel/UCnA6aJG7HYBBr3e5FX2fLKA",t),new N.eS("assets/images/sosyalMedya/twitter.png","/metumss","https://www.twitter.com/metumss/",t),new N.eS("assets/images/sosyalMedya/reddit.png","/u/odtumbt","https://www.reddit.com/u/odtumbt/",t)],r),C.b4,C.Q),new T.ad(t,30,t,t),T.d_(H.b([new N.eS("assets/images/sosyalMedya/github.png",s,"https://www.github.com/odtumbt/",t)],r),C.b4,C.Q)],r),C.aM,C.b3),t)}}
