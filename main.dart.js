@@ -25259,9 +25259,9 @@ X.ql.prototype={
 E:function(a){return new K.f7(new X.Ok(this),null,null)}}
 X.Ok.prototype={
 $2:function(a,b){var s,r,q,p=null,o=b.a===C.kD?5:3,n=[]
-if(this.a.c)for(s=0;s<3;++s){r=Date.now()
+if(this.a.c)for(s=0;s<4;++s){r=Date.now()
 q=$.a0c[s]
-if(H.LE(new P.cq(r,!1))-q[2]<=2)n.push(q)}else for(s=0;s<3;++s){r=Date.now()
+if(H.LE(new P.cq(r,!1))-q[2]<=2)n.push(q)}else for(s=0;s<4;++s){r=Date.now()
 q=$.a0c[s]
 if(H.LE(new P.cq(r,!1))-q[2]>2)n.push(q)}r=n.length
 return new B.wd(new B.O3(o),new G.O_(new X.Oj(n),r,!0,!0,!0),p,C.o,!1,p,!0,new L.xk(p),!0,p,r,C.ae,C.pF,p)},
@@ -45263,7 +45263,7 @@ $.rn=P.y(t.N,t.BO)
 $.T9=null
 $.Tv=null
 $.a0c=function(){var s=t.M
-return[H.b(["assets/images/sponsorlogo/gizemfrit.png","http://www.gizemfrit.com/",2019],s),H.b(["assets/images/sponsorlogo/kazanetsucuklari.png","http://kazanetavm.com/sayfa-kazan-et-sucuklari-60.html",2020],s),H.b(["assets/images/sponsorlogo/dowaksa.png","http://www.dowaksa.com/",2017],s)]}()
+return[H.b(["assets/images/sponsorlogo/kazanetsucuklari.png","http://kazanetavm.com/sayfa-kazan-et-sucuklari-60.html",2020],s),H.b(["assets/images/sponsorlogo/adimodtu.png","https://adimodtu.org.tr/",2020],s),H.b(["assets/images/sponsorlogo/gizemfrit.png","http://www.gizemfrit.com/",2019],s),H.b(["assets/images/sponsorlogo/dowaksa.png","http://www.dowaksa.com/",2017],s)]}()
 $.a2I=H.b([],H.a3("m<i<bj*>*(i<bj*>*)*>"))
 $.a2J=U.a6t()
 $.V5=0
