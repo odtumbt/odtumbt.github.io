@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="A new Flutter project.">
+  <meta name="description" content="ODTÜ Malzeme Bilimleri Topluluğu Web Sitesi.">
 
   <!-- iOS meta tags & icons -->
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -28,6 +28,26 @@
       });
     }
   </script>
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/7.17.2/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.17.2/firebase-auth.js"></script>
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyBTKl59R6TMvaNdQbj515im52d3Q4gtKOI",
+    authDomain: "mbtweb-d2c47.firebaseapp.com",
+    databaseURL: "https://mbtweb-d2c47.firebaseio.com",
+    projectId: "mbtweb-d2c47",
+    storageBucket: "mbtweb-d2c47.appspot.com",
+    messagingSenderId: "1032082755941",
+    appId: "1:1032082755941:web:37c658273cd07fffc9118c",
+    measurementId: "G-WNZQL9ZH0N"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.auth();
+</script>
   <script src="main.dart.js" type="application/javascript"></script>
 </body>
 </html>
