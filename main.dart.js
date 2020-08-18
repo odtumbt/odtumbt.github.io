@@ -29161,9 +29161,13 @@ $.j_=r}q=r.oE(0,"tickets")
 new O.Mv(q,q,new O.P5(r)).B(0,P.ay(["adSoyad",s.e,"firma",s.f,"email",s.r,"telefon",s.x,"konu",s.y,"mesaj",s.z],t.X,t.z)).bo(0,new Q.a_D(s),t.P).fV(new Q.a_E(s))}},
 $S:0}
 Q.a_D.prototype={
-$1:function(a){this.a.ch="Ba\u015far\u0131yla g\xf6nderildi, ticket id "+J.bJ(a)}}
+$1:function(a){var s=this.a
+s.ch=s.Q=""
+s.ch="Ba\u015far\u0131yla g\xf6nderildi, ticket id "+J.bJ(C.b.gZ(a.a.c))}}
 Q.a_E.prototype={
-$1:function(a){this.a.Q=J.bJ(a)},
+$1:function(a){var s=this.a
+s.ch=s.Q=""
+s.Q=J.bJ(a)},
 $S:3}
 Q.vY.prototype={
 C:function(a){var s=null
