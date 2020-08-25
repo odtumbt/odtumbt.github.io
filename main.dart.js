@@ -32353,7 +32353,7 @@ l=t.t
 m=T.b_(H.a([n,N.eT(!1,L.aE(m!==""?m:"G\xfcn Se\xe7in",i,i,i,i,i,i,i,i,i),C.z,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,new B.a7H(j,b),i,i,i,i,i,i)],l),C.k,C.o,C.j)
 n=T.D(i,5,i)
 k=F.af(b,!1).a
-return T.cu(T.aA(H.a([p,o,h,s,r,q,m,n,M.I(i,N.eT(!1,L.aE("Kaydet",i,i,i,i,i,A.be(i,i,C.l,i,i,i,i,i,i,i,i,i,i,C.bP,i,i,!0,i,i,i,i,i,i),i,i,i),C.z,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,new B.a7I(j,new B.a7w()),i,i,i,i,i,i),C.c3,i,i,i,i,i,i,i,k.a)],l),C.k,C.o,C.j),i,i)}}
+return T.cu(T.aA(H.a([p,o,h,s,r,q,m,n,M.I(i,N.eT(!1,L.aE("G\xfcncelle",i,i,i,i,i,A.be(i,i,C.l,i,i,i,i,i,i,i,i,i,i,C.bP,i,i,!0,i,i,i,i,i,i),i,i,i),C.z,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,new B.a7I(j,new B.a7w()),i,i,i,i,i,i),C.c3,i,i,i,i,i,i,i,k.a)],l),C.k,C.o,C.j),i,i)}}
 B.a7w.prototype={
 $5$adSoyad$bio$dogumGunu$fotoLinki$telefon:function(a,b,c,d,e){var s
 if(d==="")return u.l
@@ -32368,7 +32368,7 @@ if(isNaN(s))return"Telefon sadece rakamlardan olu\u015fmal\u0131d\u0131r"
 if(e.length!==12)return"Telefon 12 haneden olu\u015fmal\u0131d\u0131r"
 if(b==="")return u.X
 if(c==="")return"Do\u011fum g\xfcn\xfcn\xfcz\xfc giriniz"
-if(d!==$.Aj||a!==$.Aq||e!=$.Ao||b!=$.NX||c!=$.Ai)return"De\u011fi\u015fiklik yapmad\u0131n\u0131z"
+if(d===$.Aj&&a===$.Aq&&e==$.Ao&&b==$.NX&&c==$.Ai)return"Herhangi bir de\u011fi\u015fiklik yapmad\u0131n\u0131z"
 return""},
 $0:function(){return this.$5$adSoyad$bio$dogumGunu$fotoLinki$telefon(null,null,null,null,null)},
 $S:230}
