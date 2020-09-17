@@ -33234,7 +33234,7 @@ N.yS.prototype={
 S:function(){return new N.L3(C.m)}}
 N.L3.prototype={
 w:function(a,b){var s=$.aiV,r=t.ys
-return K.akR(P.a5(new H.al(H.a(["teknik_etkinlikler","sosyal_etkinlikler","basinda_biz","ders_notlarimiz","makale_onerilerimiz","online_kutuphanemiz","projelerimiz","sponsorlarimiz","video_egitimlerimiz"],t.i),new N.a7S(),r),!0,r.j("b_.E")),new N.a7T(this),s,t.X)}}
+return K.akR(P.a5(new H.al(H.a(["sosyal_etkinlikler","basinda_biz","ders_notlarimiz","makale_onerilerimiz","online_kutuphanemiz","projelerimiz","sponsorlarimiz","video_egitimlerimiz"],t.i),new N.a7S(),r),!0,r.j("b_.E")),new N.a7T(this),s,t.X)}}
 N.a7S.prototype={
 $1:function(a){var s=null
 return K.akS(L.T(a,s,s,s,s,s,s,s,s,s),a,t.X)},
@@ -34562,7 +34562,7 @@ this.a.push(new U.Cy(s.h(a,0),s.h(a,1),s.h(a,2),s.h(a,3),null))},
 $S:3}
 Y.E6.prototype={
 w:function(a,b){var s=null,r=t.t
-return T.bO(M.o(s,T.a3(H.a([S.aQ(s,C.p,!0,"buyuk","Faaliyetlerimiz"),T.A(s,30,s),new T.b9(new S.aa(0,1200,0,1/0),M.o(C.D,T.cB(C.cX,H.a([new Y.mz("https://cdn.discordapp.com/attachments/747795279465676880/749282414026686574/teknik-etkinliklerimiz.png","Sosyal Etkinliklerimiz","Tan\u0131\u015fma toplant\u0131s\u0131, geleneksel sucuk ekmek partisi, malzeme g\xfcnleri, teknik geziler, at\xf6lye e\u011fitimleri, fark yarat etkinlikleri, online bulu\u015fma etkinlikleri ve daha niceleri ...","/faaliyetlerimiz/sosyal-etkinliklerimiz/",s),new Y.mz("https://cdn.discordapp.com/attachments/747795279465676880/749282411568955432/projelerimiz.png","Projelerimiz","Shell eco marathon, robot el, 3d printer, bilim \u015fenli\u011fi ve daha nice proje ...","/faaliyetlerimiz/projelerimiz/",s),new Y.mz("https://cdn.discordapp.com/attachments/747795279465676880/749282408456650772/online-egitimlerimiz.png","Online E\u011fitimlerimiz","Online k\xfct\xfcphanemiz, ders notlar\u0131m\u0131z, videolu e\u011fitimlerimiz, senelik dergimiz ve daha niceleri ...","/faaliyetlerimiz/online-egitimlerimiz/",s),new Y.mz("https://cdn.discordapp.com/attachments/747795279465676880/749282402127446117/basindabiz.png","Bas\u0131nda Biz","Yay\u0131n organlar\u0131nda biz ...","/faaliyetlerimiz/basinda-biz/",s)],r),C.bu,0,0),s,s,s,s,s,s,s,s,s),s)],r),C.i,C.N,C.h),s,s,s,s,s,s,s,s,s),s,s)}}
+return T.bO(M.o(s,T.a3(H.a([S.aQ(s,C.p,!0,"buyuk","Faaliyetlerimiz"),T.A(s,30,s),new T.b9(new S.aa(0,1200,0,1/0),M.o(C.D,T.cB(C.cX,H.a([new Y.mz("https://cdn.discordapp.com/attachments/747795279465676880/749282414026686574/teknik-etkinliklerimiz.png","Etkinliklerimiz","Tan\u0131\u015fma toplant\u0131lar\u0131, geleneksel sucuk ekmek partisi, malzeme g\xfcnleri, teknik geziler, at\xf6lye e\u011fitimleri, fark yarat etkinlikleri, online bulu\u015fma etkinlikleri ve daha niceleri ...","/faaliyetlerimiz/sosyal-etkinliklerimiz/",s),new Y.mz("https://cdn.discordapp.com/attachments/747795279465676880/749282411568955432/projelerimiz.png","Projelerimiz","Shell eco marathon, robot el, 3d printer, bilim \u015fenli\u011fi ve daha nice proje ...","/faaliyetlerimiz/projelerimiz/",s),new Y.mz("https://cdn.discordapp.com/attachments/747795279465676880/749282408456650772/online-egitimlerimiz.png","Online E\u011fitimlerimiz","Online k\xfct\xfcphanemiz, ders notlar\u0131m\u0131z, videolu e\u011fitimlerimiz, senelik dergimiz ve daha niceleri ...","/faaliyetlerimiz/online-egitimlerimiz/",s),new Y.mz("https://cdn.discordapp.com/attachments/747795279465676880/749282402127446117/basindabiz.png","Bas\u0131nda Biz","Yay\u0131n organlar\u0131nda biz ...","/faaliyetlerimiz/basinda-biz/",s)],r),C.bu,0,0),s,s,s,s,s,s,s,s,s),s)],r),C.i,C.N,C.h),s,s,s,s,s,s,s,s,s),s,s)}}
 Y.mz.prototype={
 w:function(a,b){var s=this,r=null,q=F.x(b,!1).a.a>512?512:F.x(b,!1).a.a,p=t.t
 return new T.b9(new S.aa(0,512,0,q),M.o(r,R.by(!1,!0,new S.hh(T.a3(H.a([new S.dC(r),new T.b9(new S.aa(0,512,0,256),T.tR(K.c8(20),U.fM(s.c,r,r,r)),r),T.A(r,30,r),new T.b9(new S.aa(0,512,0,1/0),T.a3(H.a([S.aQ(r,C.p,!0,"orta",s.d),T.A(r,30,r),S.aQ(r,C.p,!1,"kucuk",s.e)],p),C.i,C.l,C.h),r),new S.dC(r)],p),C.i,C.N,C.h),r),r,!0,r,r,r,r,r,r,r,r,r,r,new Y.TQ(s),r,r,r),r,r,r,r,r,r,r,r,r),r)}}
@@ -66499,7 +66499,7 @@ $.aoI=!1
 $.BC=""
 $.t0=""
 $.BD=""
-$.aiV="teknik_etkinlikler"
+$.aiV="sosyal_etkinlikler"
 $.ajb=!1
 $.lW=""
 $.Bz=""
